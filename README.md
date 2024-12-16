@@ -1,4 +1,4 @@
-# Sasuke
+# Agentic RAG
 A powerful, AI-driven assistant for legal and financial queries, leveraging Pathway's fast data ingestion and pipeline building. Designed to automate repetitive tasks, it includes the following specialized agents:
 
 1. **CA Agent**: Streamlines tax filing by identifying savings opportunities, and acts as your virtual Chartered Accountant.
