@@ -1,0 +1,153 @@
+# **DEFINITIVE AGREEMENT**
+
+This Definitive Agreement (the “Agreement”) is made as of the [Insert Date] (the “Effective Date”) by and between [Party 1 Name], a [Entity Type, e.g., nonprofit corporation] with its principal place of business at [Address] (“[Short Name for Party 1]”), and [Party 2 Name], a [Entity Type, e.g., Delaware corporation] with its principal place of business at [Address] (“[Short Name for Party 2]”). [Party 1] and [Party 2] are sometimes hereinafter referred to individually as a “Party” and collectively as the “Parties.”
+
+---
+
+## **RECITALS**
+
+WHEREAS, [Party 1’s mission or purpose, e.g., Party 1 is a nonprofit organization that supports research and development in the field of [specific area]]; and
+
+WHEREAS, [Party 2’s business or purpose, e.g., Party 2 is engaged in the development and commercialization of pharmaceutical products]; and
+
+WHEREAS, [Brief description of the purpose of the agreement, e.g., Party 2 has submitted a proposal for funding a clinical trial, which has been approved by Party 1]; and
+
+WHEREAS, [Optional: Acknowledge prior agreements, if applicable, e.g., Party 2 has previously received funding from Party 1 under an agreement dated [Insert Date]]; and
+
+WHEREAS, the Parties desire to enter into this Agreement to set forth the terms and conditions of their collaboration.
+
+NOW, THEREFORE, in consideration of the mutual promises herein contained and for other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the Parties agree as follows:
+
+---
+
+## **1. DEFINITIONS**
+
+1.1 **“Confidential Information”**: [Insert definition, e.g., any scientific, technical, trade, or business information disclosed by one Party to the other that is designated as confidential or proprietary].
+
+1.2 **“Deliverables”**: [Insert definition, e.g., any and all items required to be delivered under this Agreement, as specified in Exhibit A].
+
+1.3 **“Field”**: [Insert definition, e.g., the specific area of research or business covered by the Agreement].
+
+1.4 **“Milestones”**: [Insert definition, e.g., specific achievements or deliverables outlined in Exhibit B that trigger payments or other obligations].
+
+1.5 **“Net Sales”**: [Insert definition, e.g., gross sales of the product less certain deductions such as returns, taxes, and shipping costs].
+
+1.6 **[Add additional definitions as needed, e.g., “Product,” “Research Program,” “Intellectual Property Rights,” etc.].
+
+---
+
+## **2. SCOPE OF THE AGREEMENT**
+
+2.1 **Purpose**: [Describe the purpose of the agreement, e.g., Party 1 agrees to provide funding to Party 2 for the development of [specific product or research program]].
+
+2.2 **Funding**: [Insert details of funding, e.g., Party 1 will provide up to [amount] in funding, subject to the achievement of milestones as outlined in Exhibit B].
+
+2.3 **Use of Funds**: [Specify how the funds must be used, e.g., exclusively for the purposes of the research program described in Exhibit A].
+
+2.4 **Deliverables and Milestones**: [Describe the deliverables and milestones, e.g., Party 2 shall achieve the milestones outlined in Exhibit B and provide the deliverables specified in Exhibit A].
+
+---
+
+## **3. REPRESENTATIONS AND WARRANTIES**
+
+3.1 **Mutual Representations**: Each Party represents and warrants that:
+- It has the authority to enter into this Agreement.
+- The execution and performance of this Agreement will not conflict with any other agreements or obligations.
+
+3.2 **Party 2 Representations**: Party 2 further represents and warrants that:
+- It has the necessary expertise, licenses, and resources to perform its obligations under this Agreement.
+- It will comply with all applicable laws and regulations.
+
+3.3 **Disclaimer**: [Insert disclaimer, e.g., Except as expressly provided in this Agreement, neither Party makes any warranties, express or implied, including warranties of merchantability or fitness for a particular purpose].
+
+---
+
+## **4. CONFIDENTIALITY**
+
+4.1 **Obligations**: Each Party agrees to maintain the confidentiality of the other Party’s Confidential Information and not to disclose it to any third party without prior written consent.
+
+4.2 **Exceptions**: Confidential Information does not include information that:
+- Is publicly available at the time of disclosure.
+- Becomes publicly available through no fault of the receiving Party.
+- Is independently developed by the receiving Party.
+
+4.3 **Duration**: The confidentiality obligations under this Section shall survive for [Insert Time Period, e.g., five (5) years] after the termination or expiration of this Agreement.
+
+---
+
+## **5. INTELLECTUAL PROPERTY**
+
+5.1 **Ownership**: [Specify ownership of intellectual property, e.g., Party 2 shall own all intellectual property developed under this Agreement].
+
+5.2 **Licenses**: [If applicable, describe any licenses granted, e.g., Party 2 grants Party 1 a non-exclusive, royalty-free license to use the research results for non-commercial purposes].
+
+5.3 **Protection**: [Describe responsibilities for protecting intellectual property, e.g., Party 2 shall be responsible for filing and maintaining patents related to the research program].
+
+---
+
+## **6. PAYMENTS**
+
+6.1 **Milestone Payments**: [Describe payment terms, e.g., Party 1 shall make payments to Party 2 upon the achievement of milestones as outlined in Exhibit B].
+
+6.2 **Royalties**: [If applicable, describe royalty payments, e.g., Party 2 shall pay Party 1 a royalty of [percentage] on net sales of the product].
+
+6.3 **Audit Rights**: [Describe audit rights, e.g., Party 1 shall have the right to audit Party 2’s financial records to verify the accuracy of payments].
+
+---
+
+## **7. TERM AND TERMINATION**
+
+7.1 **Term**: This Agreement shall commence on the Effective Date and remain in effect until [Insert Date or Event, e.g., the completion of the milestones], unless earlier terminated as provided herein.
+
+7.2 **Termination for Cause**: Either Party may terminate this Agreement upon [Insert Notice Period, e.g., thirty (30) days’] written notice if the other Party materially breaches this Agreement and fails to cure such breach within [Insert Cure Period, e.g., thirty (30) days].
+
+7.3 **Effect of Termination**: [Describe the consequences of termination, e.g., Party 2 shall return any unused funds to Party 1].
+
+---
+
+## **8. DISPUTE RESOLUTION**
+
+8.1 **Negotiation**: The Parties agree to attempt to resolve any disputes through good faith negotiations.
+
+8.2 **Arbitration**: [If applicable, describe arbitration process, e.g., Any disputes that cannot be resolved through negotiation shall be submitted to binding arbitration in [Location]].
+
+---
+
+## **9. MISCELLANEOUS**
+
+9.1 **Governing Law**: This Agreement shall be governed by the laws of the State of [Insert State], without regard to its conflict of laws principles.
+
+9.2 **Assignment**: Neither Party may assign this Agreement without the prior written consent of the other Party, except in connection with a merger or sale of substantially all of its assets.
+
+9.3 **Entire Agreement**: This Agreement, including all exhibits, constitutes the entire agreement between the Parties and supersedes all prior agreements and understandings.
+
+9.4 **Notices**: All notices under this Agreement shall be in writing and delivered to the addresses set forth above.
+
+---
+
+## **EXHIBITS**
+- **Exhibit A**: Description of the Research Program or Deliverables.
+- **Exhibit B**: Milestones and Payment Schedule.
+- **Exhibit C**: Budget.
+
+---
+
+## **SIGNATURES**
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the Effective Date.
+
+**[Party 1 Name]**  
+By: ___________________________  
+Name: [Insert Name]  
+Title: [Insert Title]  
+Date: [Insert Date]  
+
+**[Party 2 Name]**  
+By: ___________________________  
+Name: [Insert Name]  
+Title: [Insert Title]  
+Date: [Insert Date]  
+
+---
+
+This template provides a flexible structure for drafting a definitive agreement. You can customize the sections and exhibits based on the specific terms and conditions of your transaction.

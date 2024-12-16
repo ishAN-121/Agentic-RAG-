@@ -1,0 +1,123 @@
+Due Diligence Checklist
+Here is a **sample Due Diligence Checklist Template** for a mergers and acquisition (M&A) deal. This template is organized into key categories to ensure a comprehensive review of the target company.
+
+---
+
+## **DUE DILIGENCE CHECKLIST TEMPLATE**
+
+### **1. Corporate Information**
+- [ ] Articles of Incorporation and Bylaws (and all amendments).
+- [ ] Certificate of Good Standing from the relevant jurisdiction(s).
+- [ ] List of all subsidiaries, affiliates, and joint ventures.
+- [ ] Organizational chart showing ownership structure.
+- [ ] Minutes of board of directors and shareholder meetings for the past 3 years.
+- [ ] List of current officers, directors, and key employees.
+- [ ] Copies of any shareholder agreements, voting agreements, or other governance documents.
+
+---
+
+### **2. Financial Information**
+- [ ] Audited financial statements for the past 3-5 years.
+- [ ] Interim financial statements for the current year.
+- [ ] General ledger and trial balance.
+- [ ] Budget and financial projections for the next 3-5 years.
+- [ ] Details of any off-balance sheet liabilities.
+- [ ] Schedule of accounts receivable and accounts payable.
+- [ ] List of major customers and suppliers (with revenue/expense breakdowns).
+- [ ] Copies of any loan agreements, credit facilities, or debt instruments.
+- [ ] Tax returns for the past 3-5 years (federal, state, and local).
+- [ ] Details of any tax audits, disputes, or outstanding liabilities.
+
+---
+
+### **3. Legal and Regulatory**
+- [ ] Copies of all material contracts (e.g., customer, supplier, distributor, partnership agreements).
+- [ ] List of ongoing or threatened litigation, claims, or disputes.
+- [ ] Copies of settlement agreements or judgments.
+- [ ] Regulatory filings and correspondence with government agencies.
+- [ ] Licenses, permits, and certifications required for operations.
+- [ ] Environmental compliance reports and permits.
+- [ ] Details of any violations, fines, or penalties.
+
+---
+
+### **4. Intellectual Property (IP)**
+- [ ] List of all patents, trademarks, copyrights, and trade secrets.
+- [ ] Copies of IP registration certificates and applications.
+- [ ] Details of any IP licensing agreements (inbound and outbound).
+- [ ] Documentation of IP ownership (e.g., employee invention assignments).
+- [ ] List of any IP disputes or infringement claims.
+- [ ] Software licenses and technology agreements.
+
+---
+
+### **5. Human Resources**
+- [ ] Employee handbook and HR policies.
+- [ ] List of all employees, including job titles, salaries, and benefits.
+- [ ] Copies of employment agreements, offer letters, and independent contractor agreements.
+- [ ] Details of any union agreements or collective bargaining agreements.
+- [ ] Schedule of employee benefits (e.g., health insurance, retirement plans).
+- [ ] Details of any pending or past employee disputes or claims.
+- [ ] Copies of non-compete, non-solicitation, and confidentiality agreements.
+
+---
+
+### **6. Real Estate**
+- [ ] List of all owned and leased properties.
+- [ ] Copies of deeds, titles, and lease agreements.
+- [ ] Details of any liens, mortgages, or encumbrances on properties.
+- [ ] Environmental assessments or reports for properties.
+- [ ] Zoning and land use permits.
+- [ ] Property tax records for the past 3-5 years.
+
+---
+
+### **7. Operations**
+- [ ] List of all products and services offered by the company.
+- [ ] Details of manufacturing or production processes.
+- [ ] Inventory schedules and valuation methods.
+- [ ] List of major suppliers and vendors.
+- [ ] Copies of supply chain agreements.
+- [ ] Details of any operational risks or disruptions.
+
+---
+
+### **9. Marketing and Sales**
+- [ ] Marketing plans and strategies.
+- [ ] List of major customers and sales channels.
+- [ ] Copies of customer contracts and agreements.
+- [ ] Details of pricing models and discount policies.
+- [ ] Sales reports and revenue breakdowns by product/service.
+- [ ] Customer satisfaction surveys or feedback reports.
+
+---
+
+### **10. Insurance**
+- [ ] Copies of all insurance policies (e.g., general liability, property, D&O, workers' compensation).
+- [ ] Claims history for the past 3-5 years.
+- [ ] Certificates of insurance for key policies.
+- [ ] Details of any uninsured risks or gaps in coverage.
+
+---
+
+### **11. Strategic and Competitive Information**
+- [ ] Market analysis and industry reports.
+- [ ] List of key competitors and competitive positioning.
+- [ ] SWOT analysis (Strengths, Weaknesses, Opportunities, Threats).
+- [ ] Details of any strategic partnerships or alliances.
+- [ ] Business continuity and disaster recovery plans.
+
+---
+
+### **13. Miscellaneous**
+- [ ] Copies of any correspondence related to the transaction.
+- [ ] Details of any material risks or contingencies not covered above.
+- [ ] Any other documents requested by the buyer or advisors.
+
+---
+
+### **Instructions for Use**
+1. **Assign Responsibility**: Assign team members to collect and review specific categories of documents.
+2. **Track Progress**: Use a tracking system (e.g., spreadsheet or project management tool) to monitor the status of each item.
+3. **Flag Issues**: Highlight any red flags or missing information for further investigation.
+4. **Organize Documents**: Store all documents in a secure, centralized data room for easy access.

@@ -1,0 +1,85 @@
+Template term sheet - M&A transaction 
+User notes
+Template term sheet - M&A transaction 
+This is a template term sheet for use when one tech company is acquiring the shares of another tech company.  It sets out the principal terms agreed between the acquiring company and the shareholders of the target company prior to preparing the formal sale and purchase agreement.  The acquisition of a competing and/or complementary business in this manner is a common strategy of well-funded high growth technology companies.
+This term sheet assumes that the transaction will be structured as a share sale (as is most common).  It should not be used in connection with the acquisition of the business and assets of a target company.  This term sheet is not legally binding (other than the confidentiality obligations in part B); it simply sets out the terms agreed in relation to the acquisition.  
+applicable law
+This document is intended for use by companies domiciled in Southeast Asia.  Because the laws in each Southeast Asian country are different, you should have the document reviewed by a local lawyer.  We have suggested (as a placeholder) that the document be subject to Singapore law as this is the most common domicile of post-funded tech companies in Southeast Asia, and Singapore is well respected as a legal jurisdiction.  
+using this template
+The User Notes and the statements in the footer below (all marked in red) are included to assist in the preparation of this document.  They are for reference only –you should delete all user notes and the statements in the footer from the final form of your document.
+The use of [square brackets] around black text means that:
+the requested details need to be inserted
+there are different options for you to consider within a clause 
+the whole clause is optional and you need to consider whether to include it, based on the company’s circumstances and the user notes.
+Before finalising your document, check for all square brackets to ensure you have considered the relevant option and ensure that all square brackets have been deleted. If you delete any clauses or schedules, remember to cross reference check the document.
+# term sheet
+
+## for the acquisition of shares in [INSERT NAME OF COMPANY]
+
+*(Company)*
+
+This document (*Term Sheet*) summarises the principal terms of a proposed acquisition by *[insert name of buyer]* (the *Buyer*) of the entire issued share capital of the Company (*Acquisition*). This Term Sheet is not legally binding except for the terms stated in part B and there will be no obligation to sell or purchase the shares of the Company until a binding sale and purchase agreement is signed by the parties.
+
+---
+
+### Part A: Investment Terms (non-binding)
+
+| **Business:** | The business of the Company is *[insert a description of the Company's business].* |
+| --- | --- |
+| **Subsidiaries:** | **[OPTION ONE - User note: Use the following wording if the Company has no subsidiaries.]** <br><br> *[The Company has no subsidiaries.]* <br><br> **OR** <br><br> **[OPTION TWO - User note: Use the following wording if the Company has one or more wholly-owned subsidiaries.]** <br><br> *[The Company has the following wholly owned subsidiaries (which together with the Company constitute the Group):]* <br><br> - *[insert names of wholly-owned subsidiaries]* |
+| **Acquisition:** | The Buyer will purchase, and the shareholders set out in the appendix to this Term Sheet (*Sellers*) will sell, the full legal and beneficial interest in 100% of the shares of the Company, including all shares issued or to be issued on the exercise or conversion of any outstanding options, warrants, convertible notes or similar (*Sale Shares*), in the proportions set out against each Seller’s name in the appendix. |
+| **Purchase Price:** | **[User note: In order to keep this Term Sheet simple, we have not included any terms relating to the Purchase Price being held in escrow or subject to an earn-out. If the Acquisition will involve escrow or earn-out arrangements, this Term Sheet will need to be updated.]** <br><br> **[OPTION ONE - User note: Use the following wording if the purchase price is payable in cash only.]** <br><br> *Subject to due diligence, the purchase price for the Sale Shares will be $[insert] (*Purchase Price*), to be paid to the Sellers pro rata.* <br><br> **OR** <br><br> **[OPTION TWO - User note: Use the following wording if the purchase price includes a combination of cash and new shares in the Buyer.]** <br><br> *Subject to due diligence, the purchase price for the Sale Shares will be $[insert] (*Purchase Price*), to be satisfied by:* <br><br> - the payment of $[insert] in cash; and <br><br> - the issue of [insert number] new [ordinary] shares in the Buyer (*Consideration Shares*) at a deemed issue price of $[insert] per Consideration Share (*Issue Price*), <br><br> to the Sellers pro rata. |
+The Consideration Shares will represent approximately [insert]% of the issued share capital of the Buyer on a fully-diluted basis.
+
+| **Anticipated completion:** | Completion of the Acquisition is to occur following the completion of formal legal documentation, anticipated to be approximately [30] days after the date of this Term Sheet. |
+| --- | --- |
+| **Conditions precedent:** | In addition to customary conditions precedent for transactions of this type, the Acquisition will be conditional on the following: <br><br> - due diligence being completed to the satisfaction of the Buyer; <br> - the Sellers obtaining all necessary director and shareholder resolutions, waivers and consents for the Acquisition (including a waiver of any rights of first refusal or similar); <br> - there being no material adverse change in the business, operations, assets, position (financial, trading or otherwise), profits or prospects of the *[Company] [Or – delete as appropriate] [Group]* prior to completion; <br> - the representations and warranties of the Sellers remaining true, accurate and not misleading in all material respects up to completion; <br> - any other conditions precedent arising out of due diligence; and <br> - *[insert any other conditions to the Acquisition.]* |
+| **[Board:]** | **[User note: If the Consideration Shares (if any) represent a material interest in the Buyer, the Sellers may seek a right to appoint a director to the board of the Buyer.]** <br><br> *[insert]* will be appointed to the Board of the Buyer, with effect on and from completion. |
+| **Representations and warranties:** | The Sellers will give customary representations, warranties, indemnities and undertakings to the Buyer (covering the business and taxation), subject to the following: <br><br> - the liability of each Seller will be limited to that Seller’s proportion of the Purchase Price; <br> - no warranty claims will be permitted in respect of any matter that is fairly disclosed in any disclosure letter or schedule, or that arises because of any action taken with the written consent of the Buyer; and <br> - any warranty claims must be brought by the Buyer with [18] months after the completion date. |
+| **[Claw-back of Consideration Shares:]** | - **[User note: Include the below if Consideration Shares form a material part of the Purchase Price.]** <br> - *[The Buyer may demand that the Sellers are to satisfy any warranty claim either in cash (up to the total amount of cash received as part of the Purchase Price) or by selling back some of the Consideration Shares to the Buyer for nominal consideration (or a combination of the two).]* |
+| **Restraint / non-compete:** | Each of the Sellers will undertake not to compete with the *[Company] [Or – delete as appropriate] [Group]* or to solicit any customers or employees of the *[Company] [Or – delete as appropriate] [Group]* for a period of [insert] months following the Acquisition. |
+| **Costs:** | The parties will meet their own costs relating to the negotiation, documentation and implementation of the Acquisition. |
+| **Governing law:** | This Term Sheet and the formal legal documentation will be governed by the laws of *[Singapore].* |
+
+### Part B: Legally Binding Terms
+| **Confidentiality:** | The contents of this Term Sheet, and the fact that one has been issued, may only be disclosed by the Company to its shareholders, directors, advisers and potential investors or other person(s) approved by the Buyer (on a need to know basis). |
+| --- | --- |
+| **Exclusivity:** | For a period of [60] days from the date of signing this Term Sheet, none of the Company, its shareholders, its directors, or its officers, will conduct or solicit any discussions or negotiations with any third party regarding any sale of a material number of shares in the Company or any sale of a material part of the business and assets of the Company, unless approved in advance by the Buyer in writing. |
+
+To confirm your acceptance of this Term Sheet, please sign and date the duplicate of this Term Sheet and return it to me.
+
+**[User note: Use the following signature block for the Company.]**
+
+| SIGNED for and on behalf of [INSERT NAME OF COMPANY]: |  |  |
+| --- | --- | --- |
+|  |  |  |
+|  | Signature of authorised signatory |  |
+|  | Print full name of authorised signatory |  |
+|  | Date |  |
+
+**[User note: Use the following signature block for the Buyer.]**
+
+| SIGNED for and on behalf of [INSERT NAME OF BUYER] by: |  |  |
+| --- | --- | --- |
+|  |  |  |
+|  | Signature of authorised signatory |  |
+|  | Print full name of authorised signatory |  |
+|  | Date |  |
+
+**[User note: Use the following signature block for each selling shareholder.]**
+
+| SIGNED by [INSERT NAME OF SELLER]: |  |  |
+| --- | --- | --- |
+|  |  |  |
+|  | [Insert name of Seller] |  |
+
+### APPENDIX
+
+#### Sellers
+
+*[User note: Insert a table showing all of the shareholders of the Company, and the number and classes of shares held by each of them, OR fill out the table below.]*
+
+| Shareholder Name | Number of Shares* | Class of Shares | Percentage Shareholding on a fully diluted basis* |
+| --- | --- | --- | --- |
+| [insert] | [insert] | [insert] | [insert] |
+| **Total** | **[insert]** |  | **100%** |

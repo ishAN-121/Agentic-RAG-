@@ -1,0 +1,11 @@
+.env
+venv/
+__pycache__/
+.DS_Store
+/rag/Cache
+/rag/documents/
+debug.log
+testing.ipynb
+/Cache
+/data
+/MA_agent/MA
